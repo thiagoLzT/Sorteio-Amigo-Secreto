@@ -1,6 +1,6 @@
-Sorteio do Amigo Secreto!
+# Sorteio do Amigo Secreto!
 
-# Este projeto foi feito utilizando **HTML, CSSS e JavaScript** e tem por objetivo sortear um nome dentro de uma lista com nomes aleatórios sem limite de participantes.
+Este projeto foi feito utilizando **HTML, CSSS e JavaScript** e tem por objetivo sortear um nome dentro de uma lista com nomes aleatórios sem limite de participantes.
 
 ## Objetivo do projeto:
 -----
